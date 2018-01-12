@@ -1,0 +1,16 @@
+PODS:
+  - LANCategory (0.1.0)
+
+DEPENDENCIES:
+  - LANCategory (from `../`)
+
+EXTERNAL SOURCES:
+  LANCategory:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LANCategory: 1d64eb36193455248f024e7cd064e1161d3e2c38
+
+PODFILE CHECKSUM: f696b23add546a2bfa8a22e321a3140a0a094672
+
+COCOAPODS: 1.3.1

@@ -1,0 +1,6 @@
+framework module LANCategory {
+  umbrella header "LANCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}

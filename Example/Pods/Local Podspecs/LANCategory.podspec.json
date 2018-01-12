@@ -1,0 +1,22 @@
+{
+  "name": "LANCategory",
+  "version": "0.1.0",
+  "summary": "A short description of LANCategory.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lanvsblue/LANCategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lanvsblue": "lanvsblue@163.com"
+  },
+  "source": {
+    "git": "https://github.com/lanvsblue/LANCategory.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LANCategory/Classes/**/*"
+}
