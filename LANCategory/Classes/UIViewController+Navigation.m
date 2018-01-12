@@ -1,9 +1,9 @@
 //
 //  UIViewController+Navigation.m
-//  boot
+//  LANCategory
 //
 //  Created by 蓝布鲁 on 2017/12/12.
-//  Copyright © 2017年 Facebook. All rights reserved.
+//  Copyright © 2017年 蓝布鲁. All rights reserved.
 //
 
 #import "UIViewController+Navigation.h"

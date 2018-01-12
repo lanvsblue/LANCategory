@@ -1,6 +1,6 @@
 //
 // Created by 蓝布鲁 on 2017/12/28.
-// Copyright (c) 2017 Facebook. All rights reserved.
+// Copyright (c) 2017 蓝布鲁. All rights reserved.
 //
 
 #import "UIView+Frame.h"

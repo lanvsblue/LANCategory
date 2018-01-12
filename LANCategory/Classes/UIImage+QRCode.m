@@ -1,6 +1,6 @@
 //
 // Created by 蓝布鲁 on 2018/1/8.
-// Copyright (c) 2018 Facebook. All rights reserved.
+// Copyright (c) 2018 蓝布鲁. All rights reserved.
 //
 
 #import "UIImage+QRCode.h"

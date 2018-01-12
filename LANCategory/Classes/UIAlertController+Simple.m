@@ -1,9 +1,9 @@
 //
 //  UIAlertController+Simple.m
-//  boot
+//  LANCategory
 //
 //  Created by 蓝布鲁 on 2017/12/20.
-//  Copyright © 2017年 Facebook. All rights reserved.
+//  Copyright © 2017年 蓝布鲁. All rights reserved.
 //
 
 #import "UIAlertController+Simple.h"
