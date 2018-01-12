@@ -1,0 +1,6 @@
+use_frameworks!
+target 'LANCategory_Tests' do
+  pod 'LANCategory', :path => '../'
+  
+  
+end
