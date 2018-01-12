@@ -5,5 +5,5 @@
 
 #import <Foundation/Foundation.h>
 @interface UIWindow (VisibleViewController)
-- (UIViewController *) visibleViewController;
+@property (readonly)UIViewController* visibleViewController;
 @end

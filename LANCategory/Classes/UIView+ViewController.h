@@ -10,7 +10,7 @@
 
 @interface UIView (ViewController)
 
-@property ()UIViewController *viewController;
+@property (readonly)UIViewController *viewController;
 
-@property ()UINavigationController *navigationController;
+@property (readonly)UINavigationController *navigationController;
 @end
