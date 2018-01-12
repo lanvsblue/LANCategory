@@ -1,6 +1,11 @@
 use_frameworks!
-target 'LANCategory_Tests' do
+
+target 'LANCategory_Example' do
   pod 'LANCategory', :path => '../'
-  
-  
+
+  target 'LANCategory_Tests' do
+    inherit! :search_paths
+
+    
+  end
 end

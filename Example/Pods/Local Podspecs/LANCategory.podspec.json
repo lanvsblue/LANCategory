@@ -1,8 +1,8 @@
 {
   "name": "LANCategory",
   "version": "0.1.0",
-  "summary": "A short description of LANCategory.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "A very useful category for iOS developer.",
+  "description": "A very useful Objective-C category for iOS developer. Mainly extending UIKit.",
   "homepage": "https://github.com/lanvsblue/LANCategory",
   "license": {
     "type": "MIT",

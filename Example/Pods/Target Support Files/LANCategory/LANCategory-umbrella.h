@@ -10,6 +10,14 @@
 #endif
 #endif
 
+#import "NSDate+Formatter.h"
+#import "UIAlertController+Simple.h"
+#import "UIImage+QRCode.h"
+#import "UIView+Frame.h"
+#import "UIView+Subview.h"
+#import "UIView+ViewController.h"
+#import "UIViewController+Navigation.h"
+#import "UIWindow+VisibleViewController.h"
 
 FOUNDATION_EXPORT double LANCategoryVersionNumber;
 FOUNDATION_EXPORT const unsigned char LANCategoryVersionString[];
