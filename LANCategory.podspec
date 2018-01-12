@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-						A very useful category for iOS developer.
+						A very useful Objective-C category for iOS developer. Mainly extending UIKit.
                        DESC
 
   s.homepage         = 'https://github.com/lanvsblue/LANCategory'
